@@ -37,5 +37,7 @@ def get_stockdata(stock_name):
 
 if(__name__=='__main__'):
     get_stockdata("RELIANCE INDUSTRIES LTD.")
+    #Get stock data downloaded in csv
+    
 
 
