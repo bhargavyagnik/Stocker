@@ -1,2 +1,6 @@
 # Stocker
-An Indian Stock visualizer and predictor with many functionalities like visualizing the no of trades, previous stock prices ranging between the date entered by user etc.
+
+A unique Stock picking tool, evolving to assist in finding the best stocks in the market. 
+
+Based on domains, growth sectors, trending etc. Looking for inspiration to improve so please get in touch to make it more robust.
+
